@@ -1,7 +1,7 @@
 # 🎮 GameVerse
 
 <p align="center">
-  <img src="fotologo.png" alt="Banner GameVerse">
+  <img src="./imagens/fotologo.png" alt="Banner GameVerse" width="200">
 </p>
 
 > Primeiro projeto web desenvolvido para a faculdade. Um portal dedicado ao universo gamer.
